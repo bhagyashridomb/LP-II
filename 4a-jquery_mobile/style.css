@@ -1,0 +1,44 @@
+/* General styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f3f3f3;
+}
+
+/* Content styling */
+.content {
+    padding: 20px;
+}
+
+#services1{
+    justify-content: center;
+    margin-bottom: 30px;
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+
+
+/* Footer styling */
+[data-role="footer"] {
+    background-color: #0c0c0c;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.quicklinks {
+    margin-top: 10px;
+}
+
+.quicklinks h3 {
+    color: #fff;
+}
+
+.quicklinks a {
+    color: #fff;
+    text-decoration: none;
+}
